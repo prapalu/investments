@@ -1,0 +1,67 @@
+Sulla conoscenza del tuo portafoglio
+
+Qual è la mia attuale esposizione azionaria percentuale?
+Obiettivo: Verificare se conosce i tuoi pesi tra azionario e obbligazionario.
+Criticità: Con 19 fondi misti è facile perdere il filo. Se non lo sa, è grave.
+Qual è la mia asset allocation complessiva? Perché è strutturata così?
+Obiettivo: Deve giustificare strategicamente la composizione, non solo dire “è ben diversificata”.
+Qual è la mia esposizione geografica? Ho troppa Europa? Troppa America? Troppa Cina?
+Obiettivo: Verificare se sa quantificare e se è coerente con la tua tolleranza al rischio.
+Quanti fondi ho che si sovrappongono tra loro? Perché ne ho così tanti?
+Obiettivo: Metterlo davanti al rischio di ridondanza (es. 5 fondi globali, 3 bilanciati ecc.).
+Qual è la mia esposizione valutaria? Ho coperture su USD o altre valute?
+Obiettivo: Vedere se ha valutato il rischio cambio (es. Cina, US, Pacifico).
+📉 Sui costi e l’efficienza
+
+Qual è il TER medio ponderato del mio portafoglio?
+Obiettivo: Deve sapere che paghi oltre 1.3–1.5% di costi annui, molto più di un ETF.
+Attacco possibile: “Se esistono ETF che fanno lo stesso con 0.2%, perché pago 6–7 volte tanto?”
+Quanto sto pagando ogni anno in costi impliciti e commissioni?
+Obiettivo: Vedi se considera anche i costi occulti (oltre al TER: entry/exit fee, performance fee ecc.).
+Mi può mostrare l’impatto stimato dei costi sui miei rendimenti a 10 anni?
+Obiettivo: Costringerlo a confrontare 1.5% di TER vs 0.2% ETF su un orizzonte lungo.
+📊 Sulla coerenza col tuo profilo
+
+Il portafoglio è coerente con la mia bassa tolleranza al rischio? Come è misurata?
+Obiettivo: Deve dimostrare che ha fatto un test di rischio reale (non solo “profilo MIFID” generico).
+Quali scenari macroeconomici o di mercato sono coperti dal mio portafoglio?
+Obiettivo: Verificare se ci sono strumenti difensivi o decorrelati (es. oro, obbligazioni inflation-linked).
+Se domani ci fosse un nuovo 2008, quanto potrei perdere in percentuale?
+Obiettivo: Far emergere la vera volatilità del portafoglio.
+Che rendimento atteso ho? E con quale rischio (drawdown massimo atteso)?
+Obiettivo: Fargli dare numeri. Nella maggior parte dei casi non lo saprà o li improvviserà.
+🎯 Domande strategiche / etiche
+Lei è vincolato a proporre solo fondi NEF o ha accesso ad altri strumenti (es. ETF)?
+Obiettivo: Mettere in discussione l’indipendenza della consulenza.
+C’è un motivo per cui non mi ha mai proposto ETF a basso costo?
+Attacco diretto: Perché se sa che esistono, allora c’è un conflitto d’interesse.
+Mi può spiegare come guadagna la banca dalla mia situazione attuale?
+Obiettivo: Fargli ammettere che i fondi NEF retrocedono commissioni alla banca.
+Se investissi tramite ETF con una banca online e stessi meglio, cosa perderei davvero?
+Domanda retorica, chiude bene la discussione.
+
+3b. Esposizione agli scenari macroeconomici
+✅ Domande per verificare la protezione o la vulnerabilità del portafoglio rispetto agli scenari economici più rilevanti:
+
+Come si comporterebbe il mio portafoglio in caso di un forte rialzo dei tassi di interesse da parte della BCE o della Fed?
+Sono protetto da uno scenario di inflazione alta e persistente? Quali strumenti del mio portafoglio assolvono questa funzione?
+Se invece l’economia entrasse in recessione, quali strumenti attenuerebbero le perdite? Ho una componente difensiva?
+In uno scenario di crescita globale forte, quali aree o settori nel mio portafoglio ne beneficerebbero di più?
+Se ci fosse un crollo dei mercati emergenti, quanto inciderebbe sul mio patrimonio?
+Ho esposizione a settori o strumenti che performano bene in contesti stagflattivi (es. materie prime, oro, low volatility)?
+In che modo il mio portafoglio è esposto o protetto da un crollo del dollaro? E se invece il dollaro si rafforzasse?
+Cosa succede se l’Eurozona entra in crisi (es. spread, debito italiano, rischio paese)? Sono troppo concentrato in Europa?
+Qual è il ruolo dell’oro o di asset decorrelati nel mio portafoglio? Ce n’è traccia? In che percentuale?
+Il mio portafoglio è anticiclico, neutro o pro-ciclico? In base a quali evidenze?
+❗Domande critiche di sintesi:
+
+Sa dirmi in che misura il mio portafoglio è resiliente a scenari negativi e quanto invece è esposto a rischi sistemici?
+Il portafoglio che mi è stato costruito anticipa scenari futuri o si limita a riflettere quelli del passato?
+Quali scelte attive sono state fatte sul portafoglio per affrontare i prossimi 3–5 anni?
+
+
+🪓 Frasi taglienti ma corrette da usare (se serve)
+“Mi pare di avere più prodotti che strategia.”
+“Pago l’equivalente di una Panda nuova ogni 6-7 anni in costi di gestione.”
+“Non mi sembra un portafoglio cucito su misura: mi pare uno scaffale di prodotti.”
+“Se lei stesso avesse il mio profilo, avrebbe questi fondi nel suo portafoglio personale?”
